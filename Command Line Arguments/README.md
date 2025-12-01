@@ -1,19 +1,12 @@
 # Command Line Arguments in Python
 
 This README explains **Command Line Arguments (CLI Args)** in Python with clear examples.
-These are heavily used in **DevOps, automation scripts, CI/CD tools, and administration tasks**.
-
 ---
-
 # 📌 What Are Command Line Arguments?
 
 Command Line Arguments are inputs passed to a Python script while running it from a terminal.
 
 Example:
-
-```bash
-python3 script.py arg1 arg2 arg3
-
 
 Example 1 — Print All Arguments
 import sys
