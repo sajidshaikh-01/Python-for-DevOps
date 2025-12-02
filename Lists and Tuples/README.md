@@ -60,6 +60,11 @@ is_present = 'banana' in my_list  # Checks if 'banana' is in the list (True)
 ```
 
 
+
+
+
+
+
 # Understanding Tuples
 
 ## What is a Tuple?
@@ -118,6 +123,10 @@ def get_coordinates():
 
 x, y = get_coordinates()  # Unpack the returned tuple (x=3, y=4)
 ```
+
+
+
+
 
 
 # Differences Between Tuples and Lists
