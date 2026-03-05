@@ -186,3 +186,7 @@ for item in my_tuple:
 **List:** Lists generally consume more memory than tuples because they need to store additional information to support their mutability.
 
 **Tuple:** Tuples consume less memory because they are immutable, and the interpreter can optimize memory usage.
+
+
+
+---
